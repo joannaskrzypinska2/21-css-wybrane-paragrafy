@@ -1,0 +1,11 @@
+p {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.example {
+    background-color: blue;
+}
+.elephant {
+    opacity: 0.5;
+}
